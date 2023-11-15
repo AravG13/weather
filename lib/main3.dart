@@ -115,7 +115,7 @@ class GeneratorPage extends StatelessWidget {
           Card(
             child: Padding(
               padding: const EdgeInsets.all(8.0),
-              child: Text('Today:Haze        40/23'),
+              child: Text('Today:Haze        '),
             ),
           ),
           SizedBox(height: 5),
